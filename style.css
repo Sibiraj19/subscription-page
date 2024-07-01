@@ -1,0 +1,25 @@
+.section-one h1{
+    background-color: rgb(233, 119, 206);
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 900px;
+    height: 40px;
+}
+.card{
+    background-color: black;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.card-container{
+    display: flex;
+   gap: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.card__desc{
+    border: solid white 1px;
+}
